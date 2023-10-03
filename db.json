@@ -1,0 +1,500 @@
+{
+    "data": [
+        {
+            "user_role_id": "33d824ab-213b-470f-a638-25bec29947d3",
+            "user_id": "26b25a7d-543c-4854-aa3c-4e0c0b973eab",
+            "first_name": "dinda",
+            "last_name": "dokter",
+            "role_display_name": "Practitioner",
+            "profile_picture": "https://api-tvigy.s3.eu-north-1.amazonaws.com/clinics/gallery_right1687240467358",
+            "shift": [
+                {
+                    "day": "Monday",
+                    "date": "2023-07-03",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Tuesday",
+                    "date": "2023-07-04",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "on",
+                            "notes": "regular shift",
+                            "time": "09:00:00 - 11:00:00"
+                        },
+                        {
+                            "time_type": "off",
+                            "notes": "single date shift",
+                            "time": "12:00:00 - 13:00:00"
+                        },
+                        {
+                            "time_type": "on",
+                            "notes": "regular shift",
+                            "time": "13:00:00 - 14:00:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "date": "2023-07-05",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "on",
+                            "notes": "regular shift",
+                            "time": "09:00:00 - 15:00:00"
+                        },
+                        {
+                            "time_type": "on",
+                            "notes": "single date shift",
+                            "time": "13:00:00 - 14:00:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "date": "2023-07-06",
+                    "is_clinic_holiday": true,
+                    "times": []
+                },
+                {
+                    "day": "Friday",
+                    "date": "2023-07-07",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "on",
+                            "notes": "regular shift",
+                            "time": "09:00:00 - 15:00:00"
+                        },
+                        {
+                            "time_type": "off",
+                            "notes": "single date shift",
+                            "time": "13:00:00 - 14:00:00"
+                        },
+                        {
+                            "time_type": "off",
+                            "notes": "clinic hour exception",
+                            "time": "15:00:00 - 16:00:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "date": "2023-07-08",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Sunday",
+                    "date": "2023-07-09",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Monday",
+                    "date": "2023-07-10",
+                    "is_clinic_holiday": false,
+                    "times": []
+                }
+            ]
+        },
+        {
+            "user_role_id": "59e8e3c9-4af1-4a40-a0e5-a8e808681b4b",
+            "user_id": "273903ff-0e50-49ff-ba7a-9be3861b6e5d",
+            "first_name": null,
+            "last_name": null,
+            "role_display_name": "Practitioner",
+            "profile_picture": "https://api-tvigy.s3.eu-north-1.amazonaws.com/clinics/gallery_right1687240467358",
+            "shift": [
+                {
+                    "day": "Monday",
+                    "date": "2023-07-03",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Tuesday",
+                    "date": "2023-07-04",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Wednesday",
+                    "date": "2023-07-05",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Thursday",
+                    "date": "2023-07-06",
+                    "is_clinic_holiday": true,
+                    "times": []
+                },
+                {
+                    "day": "Friday",
+                    "date": "2023-07-07",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "off",
+                            "notes": "clinic hour exception",
+                            "time": "15:00:00 - 16:00:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "date": "2023-07-08",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Sunday",
+                    "date": "2023-07-09",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Monday",
+                    "date": "2023-07-10",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "on",
+                            "notes": "regular shift",
+                            "time": "09:00:00 - 11:00:00"
+                        },
+                        {
+                            "time_type": "on",
+                            "notes": "regular shift",
+                            "time": "13:00:00 - 14:00:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user_role_id": "a6896b77-f322-4bfb-8dcf-78eb23b58fa5",
+            "user_id": "d0027ed6-61fb-40f6-8fe3-99795e0c5052",
+            "first_name": "Vina",
+            "last_name": "Febrina",
+            "role_display_name": "Practitioner",
+            "profile_picture": "https://api-tvigy.s3.eu-north-1.amazonaws.com/clinics/gallery_right1687240467358",
+            "shift": [
+                {
+                    "day": "Monday",
+                    "date": "2023-07-03",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Tuesday",
+                    "date": "2023-07-04",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Wednesday",
+                    "date": "2023-07-05",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Thursday",
+                    "date": "2023-07-06",
+                    "is_clinic_holiday": true,
+                    "times": []
+                },
+                {
+                    "day": "Friday",
+                    "date": "2023-07-07",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "off",
+                            "notes": "clinic hour exception",
+                            "time": "15:00:00 - 16:00:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "date": "2023-07-08",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Sunday",
+                    "date": "2023-07-09",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Monday",
+                    "date": "2023-07-10",
+                    "is_clinic_holiday": false,
+                    "times": []
+                }
+            ]
+        },
+        {
+            "user_role_id": "bbabfc63-5111-4fd1-a165-0812e1102496",
+            "user_id": "037a88bc-bedf-44cc-803f-3b42d69b8c7c",
+            "first_name": "Refi",
+            "last_name": "arsy",
+            "role_display_name": "Practitioner",
+            "profile_picture": "https://api-tvigy.s3.eu-north-1.amazonaws.com/clinics/gallery_right1687240467358",
+            "shift": [
+                {
+                    "day": "Monday",
+                    "date": "2023-07-03",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Tuesday",
+                    "date": "2023-07-04",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Wednesday",
+                    "date": "2023-07-05",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Thursday",
+                    "date": "2023-07-06",
+                    "is_clinic_holiday": true,
+                    "times": []
+                },
+                {
+                    "day": "Friday",
+                    "date": "2023-07-07",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "off",
+                            "notes": "clinic hour exception",
+                            "time": "15:00:00 - 16:00:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "date": "2023-07-08",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Sunday",
+                    "date": "2023-07-09",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Monday",
+                    "date": "2023-07-10",
+                    "is_clinic_holiday": false,
+                    "times": []
+                }
+            ]
+        },
+        {
+            "user_role_id": "eb5c5d03-4289-4f63-8aa3-3f21addbdf21",
+            "user_id": "8c053ba3-7d1e-457c-99ab-f6edfd7739c7",
+            "first_name": "cut",
+            "last_name": "AAA",
+            "role_display_name": "Nurse",
+            "profile_picture": "https://api-tvigy.s3.eu-north-1.amazonaws.com/clinics/gallery_right1687240467358",
+            "shift": [
+                {
+                    "day": "Monday",
+                    "date": "2023-07-03",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Tuesday",
+                    "date": "2023-07-04",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Wednesday",
+                    "date": "2023-07-05",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Thursday",
+                    "date": "2023-07-06",
+                    "is_clinic_holiday": true,
+                    "times": []
+                },
+                {
+                    "day": "Friday",
+                    "date": "2023-07-07",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "off",
+                            "notes": "clinic hour exception",
+                            "time": "15:00:00 - 16:00:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "date": "2023-07-08",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Sunday",
+                    "date": "2023-07-09",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Monday",
+                    "date": "2023-07-10",
+                    "is_clinic_holiday": false,
+                    "times": []
+                }
+            ]
+        },
+        {
+            "user_role_id": "ee52e219-b9e7-4a96-a5e7-c6e07ece9ec3",
+            "user_id": "8c053ba3-7d1e-457c-99ab-f6edfd7739c7",
+            "first_name": "cut",
+            "last_name": "AAA",
+            "role_display_name": "Clinic Owner",
+            "profile_picture": "https://api-tvigy.s3.eu-north-1.amazonaws.com/clinics/gallery_right1687240467358",
+            "shift": [
+                {
+                    "day": "Monday",
+                    "date": "2023-07-03",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Tuesday",
+                    "date": "2023-07-04",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Wednesday",
+                    "date": "2023-07-05",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Thursday",
+                    "date": "2023-07-06",
+                    "is_clinic_holiday": true,
+                    "times": []
+                },
+                {
+                    "day": "Friday",
+                    "date": "2023-07-07",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "off",
+                            "notes": "clinic hour exception",
+                            "time": "15:00:00 - 16:00:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "date": "2023-07-08",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Sunday",
+                    "date": "2023-07-09",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Monday",
+                    "date": "2023-07-10",
+                    "is_clinic_holiday": false,
+                    "times": []
+                }
+            ]
+        },
+        {
+            "user_role_id": "f70bb7c1-a45b-4632-ad0b-fb78be7e93e0",
+            "user_id": "037a88bc-bedf-44cc-803f-3b42d69b8c7c",
+            "first_name": "Refi",
+            "last_name": "arsy",
+            "role_display_name": "Nurse",
+            "profile_picture": "https://api-tvigy.s3.eu-north-1.amazonaws.com/clinics/gallery_right1687240467358",
+            "shift": [
+                {
+                    "day": "Monday",
+                    "date": "2023-07-03",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Tuesday",
+                    "date": "2023-07-04",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Wednesday",
+                    "date": "2023-07-05",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Thursday",
+                    "date": "2023-07-06",
+                    "is_clinic_holiday": true,
+                    "times": []
+                },
+                {
+                    "day": "Friday",
+                    "date": "2023-07-07",
+                    "is_clinic_holiday": false,
+                    "times": [
+                        {
+                            "time_type": "off",
+                            "notes": "clinic hour exception",
+                            "time": "15:00:00 - 16:00:00"
+                        }
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "date": "2023-07-08",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Sunday",
+                    "date": "2023-07-09",
+                    "is_clinic_holiday": false,
+                    "times": []
+                },
+                {
+                    "day": "Monday",
+                    "date": "2023-07-10",
+                    "is_clinic_holiday": false,
+                    "times": []
+                }
+            ]
+        }
+    ]
+}
